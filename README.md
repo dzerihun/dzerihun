@@ -7,12 +7,12 @@ I am currently working on various projects and have a strong interest in softwar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dagmawizerihun/)
 
 ## Previous Roles:
-- **Software Engineering Intern @ KIROM Electromechanical Engineering PLC**
 - **Software Engineering Intern @ NCR Corporation**
+- **Software Engineering Intern @ KIROM Electromechanical Engineering PLC**
 - **SEO Career EDGE Participant**
 - **Tech Developer Lite Intern @ SEO**
 - **Summer Learning Extern @ AT&T**
-- **Open Source Contributor @ Chapa**
+- **Algorithms and Database Queries Research Assistant @ Denison University**
 
 
 ## Tech Stack:
