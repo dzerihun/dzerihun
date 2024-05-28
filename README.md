@@ -1,7 +1,8 @@
 # About Me:
 
 I am a recent graduate from Denison University, class of 2024, with a B.A. in Computer Science and Economics. 
-- **International Student from Ethiopia**
+- **International Student from Ethiopia.**
+
 I am currently working on various projects and have a strong interest in software engineering and data analysis.
 Open to new grad roles in Full Stack & Back-End Engineering, Consulting as well as Corporate Finance.
 If there is a fit, please reach out @zerihu_d1@denison.edu
