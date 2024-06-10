@@ -79,11 +79,11 @@ If there is a fit, please reach out @zerihu_d1@denison.edu
 
 
 ## GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dagmawiazerihun&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzerihun&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dagmawiazerihun&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dzerihun&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawiazerihun&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzerihun&layout=compact&theme=radical)
 
 ## Education:
 ### Denison University
