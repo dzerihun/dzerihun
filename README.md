@@ -41,6 +41,9 @@ If there is a fit, please reach out @zerihu_d1@denison.edu
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-blue?style=for-the-badge&logo=r&logoColor=white)
+![tidyverse](https://img.shields.io/badge/tidyverse-blue?style=for-the-badge&logo=r&logoColor=white)
+
 
 
 ### Tools and Platforms:
