@@ -1,11 +1,16 @@
 # About Me:
 
-I am a recent graduate from Denison University, class of 2024, with a B.A. in Computer Science and Economics. 
-- **International Student from Ethiopia.**
+👋 About Me
 
-I am currently working on various projects and have a strong interest in software engineering and data analysis.
-Open to new grad roles in Full Stack & Back-End Engineering & Tech Consulting.
-If there is a fit, please reach out @zerihu_d1@denison.edu
+I’m a recent graduate from Denison University (Class of 2024), where I studied Computer Science and Economics.
+	•	International student from Ethiopia
+	•	Passionate about building things that solve real problems
+
+Currently sharpening my skills in quantitative finance and applied mathematics, while continuing hands-on work in software engineering and data analysis. I enjoy projects that sit at the intersection of tech, finance, and strategy.
+
+Open to collaborations on quant projects, as well as opportunities in full stack/back-end engineering, data-driven roles, and tech consulting.
+
+📬 Feel free to connect: dagmawizerihun777@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dagmawizerihun/)
 
