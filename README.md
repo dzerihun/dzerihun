@@ -1,7 +1,5 @@
 # About Me:
 
-👋 About Me
-
 I’m a recent graduate from Denison University (Class of 2024), where I studied Computer Science and Economics.
 	•	International student from Ethiopia
 	•	Passionate about building things that solve real problems
