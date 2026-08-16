@@ -1,80 +1,65 @@
-# About Me:
+# About Me
 
-I’m a recent graduate from Denison University (Class of 2024), where I studied Computer Science and Economics.
-	•	International student from Ethiopia
-	•	Passionate about building things that solve real problems
+Quantitative finance student building at the intersection of markets, math, and code. Currently an **MS in Mathematics in Finance (MSMF)** candidate at **NYU Courant Institute of Mathematical Sciences**, with graduate mathematics coursework completed as a visiting student at Johns Hopkins.
 
-Currently sharpening my skills in quantitative finance and applied mathematics, while continuing hands-on work in software engineering and data analysis. I enjoy projects that sit at the intersection of tech, finance, and strategy.
+- 🌍 International student from Ethiopia, with experience living and studying across multiple countries
+- 📈 Long-term focus: bringing quantitative finance practices to emerging capital markets, particularly Ethiopia's developing securities exchange ecosystem
+- 🔬 Work centers on options pricing, statistical arbitrage, and applying machine learning to derivatives and portfolio problems
 
-Open to collaborations on quant projects, as well as opportunities in full stack/back-end engineering, data-driven roles, and tech consulting.
+**Experience:** Investment Intern @ **Brightside Legacy** (search-fund-style acquisition firm) · Software Engineering Intern @ **NCR Corporation**
 
-📬 Feel free to connect: dagmawizerihun777@gmail.com
+**Currently building:** PathNav for the Stellic Pathfinders Challenge hackathon — leading the backend/API
+
+Open to collaborations on quant research and trading projects.
+
+📬 dagmawizerihun777@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dagmawizerihun/)
 
+## Quant Finance Projects
 
-## Tech Stack:
+- **Options Pricing Engine** — Black-Scholes, CRR binomial trees, and Monte Carlo simulation with full Greeks calculation, validated for convergence across moneyness regimes
+- **Deep RL for Dynamic Options Hedging** — reinforcement learning agent trained to hedge options positions, benchmarked against classical Black-Scholes delta hedging
+- **Cointegration-Based Statistical Arbitrage** — pairs trading strategy built on cointegration testing, ADF testing, and Kalman filtering
+- **PathNav** (in progress) — hackathon project for the Stellic Pathfinders Challenge
 
-### Programming Languages:
+## Tech Stack
+
+### Quantitative Methods:
+![Black-Scholes](https://img.shields.io/badge/Black--Scholes-1A1A2E?style=for-the-badge)
+![Monte Carlo](https://img.shields.io/badge/Monte%20Carlo%20Simulation-1A1A2E?style=for-the-badge)
+![Binomial Trees](https://img.shields.io/badge/Binomial%20Trees-1A1A2E?style=for-the-badge)
+![Greeks](https://img.shields.io/badge/Greeks-1A1A2E?style=for-the-badge)
+![GBM](https://img.shields.io/badge/GBM-1A1A2E?style=for-the-badge)
+![Cointegration](https://img.shields.io/badge/Cointegration-1A1A2E?style=for-the-badge)
+![Kalman Filtering](https://img.shields.io/badge/Kalman%20Filtering-1A1A2E?style=for-the-badge)
+![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-1A1A2E?style=for-the-badge)
+![Portfolio Optimization](https://img.shields.io/badge/Portfolio%20Optimization-1A1A2E?style=for-the-badge)
+
+### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
-### Frameworks and Libraries:
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-107C10?style=for-the-badge&logo=natural-language-toolkit&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### Libraries & Tools:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-3776AB?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![stable-baselines3](https://img.shields.io/badge/stable--baselines3-412991?style=for-the-badge)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0081CB?style=for-the-badge)
+![yfinance](https://img.shields.io/badge/yfinance-6001D2?style=for-the-badge)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-blue?style=for-the-badge&logo=r&logoColor=white)
-![tidyverse](https://img.shields.io/badge/tidyverse-blue?style=for-the-badge&logo=r&logoColor=white)
-
-
-
-### Tools and Platforms:
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![Bloomberg Terminal](https://img.shields.io/badge/Bloomberg%20Terminal-000000?style=for-the-badge&logo=bloomberg&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Google API](https://img.shields.io/badge/Google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-
-
-### Other Technologies:
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Restful APIs](https://img.shields.io/badge/Restful%20APIs-FF6C37?style=for-the-badge&logo=rest&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Google API](https://img.shields.io/badge/Google%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-![Stata](https://img.shields.io/badge/Stata-1A77F2?style=for-the-badge&logo=stata&logoColor=white)
-
 
 ## GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dzerihun&show_icons=true&theme=radical)
@@ -83,11 +68,8 @@ Open to collaborations on quant projects, as well as opportunities in full stack
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzerihun&layout=compact&theme=radical)
 
-## Education:
-### Denison University
-- **Degree**: B.A. in Computer Science and Economics
-- **Graduation**: May 2024
-- **GPA**: 3.70/4.00
-- **Honors**: Dean's List, Denison Alumni Merit Scholarship Award
+## Education
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/dagmawiazerihun)
+- **NYU Courant Institute of Mathematical Sciences** — MS in Mathematics in Finance (MSMF)
+- **Johns Hopkins University** — Graduate coursework in mathematics (Visiting Student)
+- **Denison University** — B.A. Computer Science & Economics
