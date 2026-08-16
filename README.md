@@ -21,7 +21,7 @@ Open to collaborations on quant research and trading projects.
 - **Options Pricing Engine** — Black-Scholes, CRR binomial trees, and Monte Carlo simulation with full Greeks calculation, validated for convergence across moneyness regimes
 - **Deep RL for Dynamic Options Hedging** — reinforcement learning agent trained to hedge options positions, benchmarked against classical Black-Scholes delta hedging
 - **Cointegration-Based Statistical Arbitrage** — pairs trading strategy built on cointegration testing, ADF testing, and Kalman filtering
-- **PathNav** (in progress) — hackathon project for the Stellic Pathfinders Challenge
+
 
 ## Tech Stack
 
