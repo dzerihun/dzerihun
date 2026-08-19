@@ -5,7 +5,7 @@ Quantitative finance student building at the intersection of markets, math, and 
 - 🌍 International student from Ethiopia, with experience living and studying across multiple countries
 - 📈 Long-term focus: bringing quantitative finance practices to emerging capital markets, particularly Ethiopia's developing securities exchange ecosystem
 - 🔬 Work centers on options pricing, statistical arbitrage, and applying machine learning to derivatives and portfolio problems
-**Experience:** Investment Intern @ **Brightside Legacy** (search-fund-style acquisition firm) · Software Engineering Intern @ **NCR Corporation**
+**Experience: Software Engineering Intern @ **NCR Corporation**
  
 Open to collaborations on quant research and trading projects.
  
